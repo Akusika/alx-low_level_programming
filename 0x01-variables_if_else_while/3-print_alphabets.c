@@ -8,19 +8,19 @@
 
 int main(void)
 {
-	int c = 97;
-	int c = 65;
+	int n = 97;
+	int m = 65;
 
-	while (c <= 122)
+	while (n <= 122)
 	{
-		putchar(c);
-		c++;
+		putchar(n);
+		n++;
 	}
-	while (c <= 90)
+	while (m <= 90)
 	{
-		putchar(c);
-		c++;
+		putchar(m);
+		m++;
 	}
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
