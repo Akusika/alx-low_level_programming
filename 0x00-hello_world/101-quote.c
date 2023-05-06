@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include <unistdio.h>
+#include <unistd.h>
 
 /**
  * main - entry point
- *
+ * Description - prints a quote on a new line
  * Return - always 1 (success)
  */
 int main(void
