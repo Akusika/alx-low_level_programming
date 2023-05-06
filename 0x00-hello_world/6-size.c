@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - entry point
+ * Description - prints the size of variables in C
  * Return: always 0 (success)
  */
 int main(void)
